@@ -4,9 +4,6 @@ item:
   project_url: ''
   category:
   - game
-- image: images/portfolio/item-3.png
-  project_url: "#"
-  category: illustration
 - image: images/portfolio/item-7.png
   project_url: http://examplesite.com
   category: branding
