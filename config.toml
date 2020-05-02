@@ -60,5 +60,5 @@ icon = "ti-instagram"
 URL = "#"
 icon = "ti-dribbble"
 [[params.social]]
-URL = "#"
+URL = "https://twitter.com/AppsTea"
 icon = "ti-twitter-alt"
