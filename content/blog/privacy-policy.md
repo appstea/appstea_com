@@ -1,7 +1,7 @@
 +++
 date = 2020-04-05T21:00:00Z
 description = ""
-image = ""
+image = "/images/portfolio/tap.png"
 title = "Tap&Move Privacy Policy"
 
 +++
