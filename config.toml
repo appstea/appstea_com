@@ -48,7 +48,3 @@ icon = "ti-facebook"
 [[params.social]]
 URL = "https://twitter.com/AppsTea"
 icon = "ti-twitter-alt"
-[sitemap]
-changefreq: "weekly"
-priority: 0.5
-filename: "sitemap.xml"
