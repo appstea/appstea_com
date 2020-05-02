@@ -76,9 +76,9 @@ service:
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
 portfolio:
-  enable: false
+  enable: true
   title: Portfolio
-  item_show: "5"
+  item_show: "2"
 testimonial:
   enable: false
   title: Testimonials
