@@ -20,7 +20,6 @@ email = "i@appstea.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
-phone = "+375 29 Xx Xx Xxx"
 theme_color = "#41228e"
 [params.contact]
 enable = true
@@ -48,3 +47,7 @@ icon = "ti-facebook"
 [[params.social]]
 URL = "https://twitter.com/AppsTea"
 icon = "ti-twitter-alt"
+[sitemap]
+  changefreq: "weekly"
+  priority: 0.5
+  filename: "sitemap.xml"
