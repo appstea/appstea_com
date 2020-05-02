@@ -22,16 +22,16 @@ sections:
   create: none
   match: "*"
 - type: directory
+  path: content/contact
+  label: Contact
+  create: none
+  match: "*"
+- type: directory
   path: data
   label: Data
   create: documents
   match: "*"
   new_doc_ext: yml
-- type: directory
-  path: content/contact
-  label: Contact
-  create: none
-  match: "*"
 - type: document
   path: config.toml
   label: Configuration
