@@ -23,7 +23,7 @@ logo = "images/appstea.png"
 phone = "+375 29 Xx Xx Xxx"
 theme_color = "#57969b"
 [params.contact]
-enable = false
+enable = true
 form_action = "#"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
