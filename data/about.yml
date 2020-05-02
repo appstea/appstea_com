@@ -16,7 +16,7 @@ work_process:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
 team:
-  enable: true
+  enable: false
   title: My Team
   team_member:
   - title: Jack Schenziwe
