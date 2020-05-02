@@ -6,4 +6,8 @@ author_image: images/tea.jpg
 author_signature: images/about/signature.png
 
 ---
-We make games. And apps. And stuff.
+We make games. 
+
+And apps. 
+
+And stuff.
