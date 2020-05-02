@@ -9,13 +9,13 @@ about:
     label: know more
     URL: about
 skill:
-  enable: false
+  enable: true
   title: Skills
   item:
   - title: iOS Apps
     progress: 99%
     color: "#fdb157"
-  - title: Logo Design
+  - title: Puzzle Games
     progress: 60%
     color: "#9473e6"
   - title: Web App
