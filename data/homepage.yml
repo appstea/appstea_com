@@ -77,7 +77,7 @@ service:
     highlighted: false
 portfolio:
   enable: true
-  title: Portfolio
+  title: Our Apps & Games
   item_show: "5"
 testimonial:
   enable: false
