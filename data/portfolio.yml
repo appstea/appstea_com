@@ -1,9 +1,5 @@
 ---
 item:
-- image: image/tap.png
-  project_url: ''
-  category:
-  - game
 - image: image/slide.png
   project_url: ''
   category:
@@ -35,6 +31,10 @@ item:
 - image: images/portfolio/item-7.png
   project_url: http://examplesite.com
   category: branding
+- image: image/tap.png
+  project_url: ''
+  category:
+  - game
 clients_logo_slider:
   enable: false
   title: My Clients
