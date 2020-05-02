@@ -3,11 +3,7 @@ banner:
   title: Hi! We are <br> Apps Tea <br> Small studio making apps and games
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: Puzzle games, stylish apps
   button:
     enable: true
     label: know more
