@@ -134,5 +134,5 @@ blog:
   enable: false
   title: Blogs
 legal:
-  enable: false
+  enable: true
   title: Legal
