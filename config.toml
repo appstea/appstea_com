@@ -6,7 +6,7 @@ title = "Apps Tea | Apps & Games "
 [[menu.main]]
 URL = "/portfolio"
 name = "Portfolio"
-weight = "2"
+weight = "1"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
