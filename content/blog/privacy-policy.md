@@ -30,10 +30,8 @@ We may collect several different types of information for various purposes to pr
 * Usage Information - we may collect information about your activity through our application, for example date and time you used the application, subscriptions. Our application may also contain tools/SDKs from third party service providers that may enable them to collect and/or analyze non-personal data from the users' devices.
 * Information from third parties - we may receive information about you from our analytics service providers with data they collect through our application in accordance with their own privacy policies. We use your information to perform our own analytics and to enable analytics provided by third parties and other essential functions. We use analytical information for supporting business analysis and operations, business intelligence, product development, improving the Application. In order to learn about how your information is used by our analytics service providers, you can follow the hyperlinks in the list below to each provider's privacy notice.
 * Facebook - conversion tracking is an analytics service provided by Facebook, Inc. (US). Privacy Policy: [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/ "https://www.facebook.com/about/privacy/")
-
-  Firebase - Firebase is analytics service provided by Google Inc. (US). Privacy Policy: [http://www.google.com/intl/en/policies/privacy/](http://www.google.com/intl/en/policies/privacy/ "http://www.google.com/intl/en/policies/privacy/")
-
-  Google Admob - analytics and advertisement services provided by Google. Privacy Policy: [https://google.com/policies/privacy/](https://google.com/policies/privacy/ "https://google.com/policies/privacy/")
+* Firebase - Firebase is analytics service provided by Google Inc. (US). Privacy Policy: [http://www.google.com/intl/en/policies/privacy/](http://www.google.com/intl/en/policies/privacy/ "http://www.google.com/intl/en/policies/privacy/")
+* Google Admob - analytics and advertisement services provided by Google. Privacy Policy: [https://google.com/policies/privacy/](https://google.com/policies/privacy/ "https://google.com/policies/privacy/")
 
    
 
