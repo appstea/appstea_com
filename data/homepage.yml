@@ -10,7 +10,7 @@ about:
     URL: about
 skill:
   enable: true
-  title: 'Skills '
+  title: Skills
   item:
   - title: iOS Apps
     progress: 99%
@@ -21,6 +21,9 @@ skill:
   - title: Web Apps
     progress: 70%
     color: "#ffbcaa"
+  - progress: 30%
+    color: peru
+    title: Hypercasual Games
 experience:
   enable: false
   title: Experience
