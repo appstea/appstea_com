@@ -1,5 +1,5 @@
 ---
-title: Amazon increase income 1.5 Million
+title: First blog post
 date: 2020-04-17T06:14:34.000+00:00
 image: images/blog/post-5.jpg
 description: This is meta description.
