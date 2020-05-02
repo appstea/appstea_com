@@ -33,8 +33,6 @@ We may collect several different types of information for various purposes to pr
 * Firebase - Firebase is analytics service provided by Google Inc. (US). Privacy Policy: [http://www.google.com/intl/en/policies/privacy/](http://www.google.com/intl/en/policies/privacy/ "http://www.google.com/intl/en/policies/privacy/")
 * Google Admob - analytics and advertisement services provided by Google. Privacy Policy: [https://google.com/policies/privacy/](https://google.com/policies/privacy/ "https://google.com/policies/privacy/")
 
-   
-
   ## Usage Of Your Information
 
   Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the Application to:
