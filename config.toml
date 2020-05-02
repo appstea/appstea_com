@@ -54,11 +54,5 @@ preloader = ""
 URL = "https://www.facebook.com/Apps-Tea-104663531235412/"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
-icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
 URL = "https://twitter.com/AppsTea"
 icon = "ti-twitter-alt"
