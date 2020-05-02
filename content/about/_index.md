@@ -2,7 +2,7 @@
 title: About
 date: 2019-05-12T06:14:34.000+00:00
 description: This is meta description.
-author_image: images/oriento-gy_DN08336U-unsplash.jpg
+author_image: images/static/oriento-gy_DN08336U-unsplash.jpg
 author_signature: images/about/signature.png
 
 ---
