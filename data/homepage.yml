@@ -5,7 +5,7 @@ about:
   enable: true
   content: Puzzle games, stylish apps
   button:
-    enable: false
+    enable: true
     label: know more
     URL: about
 skill:
