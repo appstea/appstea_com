@@ -1,9 +1,8 @@
 +++
 date = 2020-04-05T21:00:00Z
 description = ""
-draft = true
 image = ""
-title = "Privacy Policy"
+title = "Tap&Move Privacy Policy"
 
 +++
 # Privacy Policy
