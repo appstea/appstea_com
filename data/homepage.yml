@@ -10,7 +10,7 @@ about:
     URL: about
 skill:
   enable: true
-  title: Skills
+  title: 'Skills '
   item:
   - title: iOS Apps
     progress: 99%
