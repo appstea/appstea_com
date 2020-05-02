@@ -1,14 +1,11 @@
 ---
 item:
-- image: images/portfolio/slide.png
-  project_url: "#"
-  category:
-  - game
-- image: images/portfolio/item-7.png
-  project_url: http://examplesite.com
-  category: branding
 - image: images/tap.png
   project_url: https://apps.apple.com/us/app/tap-move-get-puzzled/id1503369220
+  category:
+  - game
+- image: images/portfolio/slide.png
+  project_url: "#"
   category:
   - game
 clients_logo_slider:
