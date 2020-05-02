@@ -57,7 +57,7 @@ education:
     year: "1998"
     academy: Cardiff School
 service:
-  enable: true
+  enable: false
   title: Services
   item:
   - title: UI Design
