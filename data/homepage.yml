@@ -133,3 +133,6 @@ clients_logo_slider:
 blog:
   enable: false
   title: Blogs
+legal:
+  enable: false
+  title: Legal
