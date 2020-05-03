@@ -18,3 +18,5 @@ title = "Tap&Move: Get Puzzled"
 \- Test your IQ in a game
 
 A completely new gameplay will definitely attract you since first level.
+
+![](/images/portfolio/tap.png)
