@@ -1,5 +1,5 @@
 +++
-date = 2020-04-19T21:12:00Z
+date = 2020-04-20T05:08:00Z
 description = "“Tap and Move” is a new addictive free tricky puzzle game with a series of tricky brain teasers and different sequences that challenge your mind. It evaluates your logical think ability, accuracy and memory."
 image = "/images/icon_tap.png"
 title = "Tap&Move: Get Puzzled"
