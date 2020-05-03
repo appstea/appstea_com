@@ -28,3 +28,5 @@ Is it even reasonable to have a hashtag strategy nowadays?
 You might already have your answer to the questions above, but if you have not yet tried for yourself - PickPic Hashtag Helper can help you with the headstart.
 
 There are more advanced hashtag tools out there, but few of them will save you as much time as PickPic.
+
+![](/images/pick.png)
