@@ -1,6 +1,6 @@
 +++
 date = 2020-05-04T21:00:00Z
-description = ""
+description = "Spend less time managing your social media accounts.  Or just improve your photography skills."
 image = "/images/1024.png"
 title = "PickPic Hashtag Helper"
 
