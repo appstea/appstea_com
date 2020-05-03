@@ -18,7 +18,7 @@ This picture is perfect, this one is beautiful, you look gorgeous on this one, t
 Once you start taking pictures of anything else than store receipts or decide to promote your business on social media, these are the questions that you ask yourself on a daily basis. We can not promise to take the choice fatigue away from you completely, but PickPic Hashtag Helper app can definitely make such choices easier and faster.
 
 **Easier Hashtags**
-
+<script src="https://widget.prefinery.com/widget/v2/tggu55mb.js" async defer></script>
 What's your hashtag strategy?
 
 Is it even reasonable to have a hashtag strategy nowadays?
