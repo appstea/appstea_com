@@ -15,4 +15,5 @@ fields:
   name: description
   label: description
 pages:
+- content/blog/tap-move-get-puzzled.md
 - content/blog/tap-move-privacy-policy.md
