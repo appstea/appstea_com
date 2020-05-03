@@ -1,7 +1,7 @@
 ---
 item:
 - image: images/tap.png
-  project_url: https://apps.apple.com/us/app/tap-move-get-puzzled/id1503369220
+  project_url: "/blog/tap-move-get-puzzled/"
   category:
   - game
 - image: images/portfolio/slide.png
