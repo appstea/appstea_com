@@ -5,7 +5,7 @@ item:
   category:
   - game
 - image: images/portfolio/slide.png
-  project_url: "#"
+  project_url: "/blog/slicey-cube-puzzle/"
   category:
   - game
 clients_logo_slider:
