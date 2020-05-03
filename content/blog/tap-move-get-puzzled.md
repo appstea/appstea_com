@@ -21,4 +21,4 @@ title = "Tap&Move: Get Puzzled"
 
 A completely new gameplay will definitely attract you since first level.
 
-![](/images/portfolio/tap.png)
+![{ max-width:  300px; } ](/images/portfolio/tap.png)
