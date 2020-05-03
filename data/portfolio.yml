@@ -1,8 +1,9 @@
 ---
 item:
 - image: images/pick.png
-  project_url: ''
-  category: ''
+  project_url: "/blog/pickpic-hashtag-helper/"
+  category:
+  - App
 - image: images/tap.png
   project_url: "/blog/tap-move-get-puzzled/"
   category:
