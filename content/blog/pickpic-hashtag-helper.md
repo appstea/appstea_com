@@ -31,4 +31,5 @@ There are more advanced hashtag tools out there, but few of them will save you a
 
 ![](/images/pick.png)
 
+**Want to be the first to knonw about the launch?**
 <div class='prefinery-form-embed'></div>
