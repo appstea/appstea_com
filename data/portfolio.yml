@@ -1,5 +1,8 @@
 ---
 item:
+- image: images/pick.png
+  project_url: ''
+  category: ''
 - image: images/tap.png
   project_url: "/blog/tap-move-get-puzzled/"
   category:
