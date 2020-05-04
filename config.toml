@@ -3,10 +3,6 @@ languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Apps Tea | Apps & Games "
-[sitemap]
-changefreq = "weekly"
-priority = 0.5
-filename = "sitemap.xml"
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
@@ -28,7 +24,7 @@ email = "i@appstea.com"
 google_analitycs_id = "UA-165397278-1"
 home = "Home"
 logo = "images/appstea.png"
-phone = "+375 29 Xx Xx Xxx"
+phone = ""
 theme_color = "#57969b"
 [params.contact]
 enable = true
@@ -56,3 +52,7 @@ icon = "ti-facebook"
 [[params.social]]
 URL = "https://twitter.com/AppsTea"
 icon = "ti-twitter-alt"
+[sitemap]
+changefreq = "weekly"
+filename = "sitemap.xml"
+priority = 0.5
