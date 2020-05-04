@@ -3,6 +3,10 @@ languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Apps Tea | Apps & Games "
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
