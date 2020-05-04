@@ -4,17 +4,9 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Apps Tea | Apps & Games "
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = ""
-[[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
 weight = "1"
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 2
 [params]
 address = "Minsk, Belarus"
 author = "Tea Drinker"
