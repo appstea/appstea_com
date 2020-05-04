@@ -4,7 +4,7 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Apps Tea | Apps & Games "
 [sitemap]
-changefreq = "monthly"
+changefreq = "weekly"
 priority = 0.5
 filename = "sitemap.xml"
 [[menu.main]]
