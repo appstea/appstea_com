@@ -24,7 +24,7 @@ email = "i@appstea.com"
 google_analitycs_id = "UA-165397278-1"
 home = "Home"
 logo = "images/appstea.png"
-phone = ""
+phone = "Who actually uses phones nowadays?"
 theme_color = "#57969b"
 [params.contact]
 enable = true
