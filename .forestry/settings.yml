@@ -31,6 +31,8 @@ sections:
   label: Legal
   create: documents
   match: "*"
+  templates:
+  - page
 - type: directory
   path: data
   label: Data
