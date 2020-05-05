@@ -5,4 +5,4 @@ image = "/images/illustrations/dots-orange.svg"
 title = "First Try"
 
 +++
-one
+First attempt 
