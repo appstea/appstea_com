@@ -17,4 +17,5 @@ fields:
     maxSize: 64
   label: image
 pages:
+- content/legal/draw-hockey-3d.md
 - content/legal/first.md
