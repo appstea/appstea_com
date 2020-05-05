@@ -26,6 +26,11 @@ sections:
   label: Contact
   create: none
   match: "*"
+ - type: directory
+  path: content/legal
+  label: Legal
+  create: documents
+  match: "*"
 - type: directory
   path: data
   label: Data
