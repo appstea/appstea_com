@@ -17,4 +17,5 @@ fields:
     maxSize: 64
   label: image
 pages:
+- content/legal/pickpic-privacy-policy.html
 - content/legal/terms-of-use.html
