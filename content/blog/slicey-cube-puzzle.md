@@ -5,7 +5,7 @@ image = "/images/icon.png"
 title = "Slicey: Cube Puzzle"
 
 +++
-<br>
+.
 
 This is a combination of a classic number game and a color cube game. It's simple, easy to play and pleasure for all ages.
 
