@@ -16,6 +16,7 @@ fields:
   config:
     maxSize: 64
   label: image
+  hidden: true
 pages:
 - content/legal/pickpic-privacy-policy.html
 - content/legal/terms-of-use.html
