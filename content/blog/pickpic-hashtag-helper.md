@@ -5,9 +5,11 @@ image = "/images/pick_cover.png"
 title = "PickPic Hashtag Helper"
 
 +++
-**Easy Choice**
+[**Easy Choice**](https://apps.apple.com/us/app/pickpic-hashtag-helper/id1482269480)
 
-Thousands of pictures cluttering your media library and not sure what to post to social media?
+[![](/images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/us/app/pickpic-hashtag-helper/id1482269480)
+
+[Thousands of pictures cluttering your media library and not sure what to post to social media?](https://apps.apple.com/us/app/pickpic-hashtag-helper/id1482269480)
 
 Wondering which picture will work best to promote your latest idea?
 
