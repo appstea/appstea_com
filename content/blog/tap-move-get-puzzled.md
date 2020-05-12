@@ -1,7 +1,7 @@
 +++
 date = 2020-04-20T05:08:00Z
 description = "“Tap and Move” is a new addictive free tricky puzzle game with a series of tricky brain teasers and different sequences that challenge your mind. It evaluates your logical think ability, accuracy and memory."
-image = "/images/icon_tap.png"
+image = "/images/tap_cover.png"
 title = "Tap&Move: Get Puzzled"
 
 +++
