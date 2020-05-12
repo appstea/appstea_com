@@ -1,7 +1,7 @@
 +++
 date = 2020-05-02T21:00:00Z
 description = ""
-image = "/images/icon.png"
+image = "/images/sli_cover.png"
 title = "Slicey: Cube Puzzle"
 
 +++
