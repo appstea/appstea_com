@@ -18,12 +18,12 @@ skill:
   - title: Puzzle Games
     progress: 60%
     color: "#9473e6"
-  - title: Web Apps
-    progress: 70%
-    color: "#ffbcaa"
   - progress: 30%
     color: peru
     title: Hypercasual Games
+  - title: Web Apps
+    progress: 70%
+    color: "#ffbcaa"
 experience:
   enable: false
   title: Experience
