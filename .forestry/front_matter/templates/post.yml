@@ -8,13 +8,13 @@ fields:
 - type: datetime
   name: date
   label: date
+- type: text
+  name: description
+  label: description
 - type: file
   name: image
   label: image
   hidden: false
-- type: text
-  name: description
-  label: description
 pages:
 - content/blog/pickpic-hashtag-helper.md
 - content/blog/slicey-cube-puzzle.md
