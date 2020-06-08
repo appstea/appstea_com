@@ -17,6 +17,7 @@ fields:
     maxSize: 64
   label: image
   hidden: true
+  default: "/images/illustrations/dots-orange.svg"
 pages:
 - content/legal/apps-tea-privacy-policy.html
 - content/legal/pickpic-privacy-policy.html
