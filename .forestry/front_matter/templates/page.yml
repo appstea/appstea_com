@@ -18,5 +18,6 @@ fields:
   label: image
   hidden: true
 pages:
+- content/legal/pickpic-privacy-policy-1.html
 - content/legal/pickpic-privacy-policy.html
 - content/legal/terms-of-use.html
