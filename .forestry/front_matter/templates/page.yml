@@ -20,4 +20,5 @@ fields:
   default: "/images/illustrations/dots-orange.svg"
 pages:
 - content/legal/pickpic-privacy-policy.html
+- content/legal/privacy-policy.html
 - content/legal/terms-of-use.html
