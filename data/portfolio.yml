@@ -1,14 +1,11 @@
 ---
 item:
-- image: images/weather_site.jpg
-  project_url: ''
-  category: ''
-- image: images/slicey_icon.png
-  project_url: "/blog/slicey-cube-puzzle/"
-  category:
-  - game
 - image: images/color_maze.jpg
   project_url: ''
+  category:
+  - game
+- image: images/slicey_icon.png
+  project_url: "/blog/slicey-cube-puzzle/"
   category:
   - game
 - image: images/pickpic_icon.png
@@ -19,6 +16,9 @@ item:
   project_url: "/blog/tap-move-get-puzzled/"
   category:
   - game
+- image: images/weather_site.jpg
+  project_url: ''
+  category: ''
 clients_logo_slider:
   enable: false
   title: My Clients
