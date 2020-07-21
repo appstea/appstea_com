@@ -1,5 +1,12 @@
 ---
 item:
+- image: images/weather_site.jpg
+  project_url: ''
+  category: ''
+- image: images/slicey_icon.png
+  project_url: "/blog/slicey-cube-puzzle/"
+  category:
+  - game
 - image: images/color_maze.jpg
   project_url: ''
   category:
@@ -10,10 +17,6 @@ item:
   - app
 - image: images/tapaku_icon.png
   project_url: "/blog/tap-move-get-puzzled/"
-  category:
-  - game
-- image: images/slicey_icon.png
-  project_url: "/blog/slicey-cube-puzzle/"
   category:
   - game
 clients_logo_slider:
