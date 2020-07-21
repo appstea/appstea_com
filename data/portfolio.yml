@@ -1,5 +1,9 @@
 ---
 item:
+- image: images/color_maze.png
+  project_url: ''
+  category:
+  - game
 - image: images/pickpic_icon.png
   project_url: "/blog/pickpic-hashtag-helper/"
   category:
