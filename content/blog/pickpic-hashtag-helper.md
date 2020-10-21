@@ -32,3 +32,5 @@ You might already have your answer to the questions above, but if you have not y
 There are more advanced hashtag tools out there, but few of them will save you as much time as PickPic.
 
 ![](/images/pick.png)
+
+Hello Nikita )
