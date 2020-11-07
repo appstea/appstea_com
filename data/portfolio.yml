@@ -17,8 +17,9 @@ item:
   category:
   - game
 - image: images/weather_site.jpg
-  project_url: ''
-  category: ''
+  project_url: https://appstea.com/blog/weather-and-climate-tracker/
+  category:
+  - app
 clients_logo_slider:
   enable: false
   title: My Clients
