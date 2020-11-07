@@ -1,0 +1,17 @@
++++
+date = 2020-11-02T21:00:00Z
+description = "Familiar interface on all devices you own, high contrast, all details big enough for everyone to notice - this could be the right weather app for you."
+draft = true
+image = "/images/wc_n.png"
+title = "Weather and Climate Tracker "
+
++++
+[![Download on the AppStore](/images/black.svg "Download on the AppStore")](https://apps.apple.com/app/id1533228338 "Download at the AppStore")
+
+[Why should one install a weather application?](https://apps.apple.com/app/id1533228338 "Download at the AppStore") There is already one built into the phone as you get it from the store.
+
+However, some people want to use the same application on their phone and tablet, some want bigger type and more contrast in app design, some people come from countries that use different measurement units - specific needs might be different.
+
+Then, just curiosity and pursuit of the new options do their job.
+
+Familiar interface on all devices you own, high contrast, all details big enough for everyone to notice - this could be the right weather app for you.
