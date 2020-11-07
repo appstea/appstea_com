@@ -14,3 +14,5 @@ However, some people want to use the same application on their phone and tablet,
 Then, just curiosity and pursuit of the new options do their job.
 
 Familiar interface on all devices you own, high contrast, all details big enough for everyone to notice - this could be the right weather app for you.
+
+![](/images/weather_qr-code.jpg)
