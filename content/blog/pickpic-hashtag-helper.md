@@ -7,7 +7,7 @@ title = "PickPic Hashtag Helper"
 +++
 [**Easy Choice**](https://apps.apple.com/us/app/pickpic-hashtag-helper/id1482269480)
 
-[![](/images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/us/app/pickpic-hashtag-helper/id1482269480)
+[![](/images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/us/app/pickpic-hashtag-helper/id1482269480 "Download on the AppStore")
 
 [Thousands of pictures cluttering your media library and not sure what to post to social media?](https://apps.apple.com/us/app/pickpic-hashtag-helper/id1482269480)
 
@@ -28,6 +28,8 @@ Is it even reasonable to have a hashtag strategy nowadays?
 \#Does #anyone #like #hashtags?
 
 You might already have your answer to the questions above, but if you have not yet tried for yourself - PickPic Hashtag Helper can help you with the headstart.
+
+![](/images/pickpic_qr-code.jpg)
 
 There are more advanced hashtag tools out there, but few of them will save you as much time as PickPic.
 
