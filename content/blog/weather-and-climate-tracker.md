@@ -19,8 +19,6 @@ This app could be your personal weather guru. It is a simple and elegant applica
 
 Weather & Climate Tracker is a high-contrast weather app, which can be really useful for individuals living with low vision, color blindness or visual impairment. The app includes a dynamic Type version and large text that makes for clear viewing and easy reading. The app can be used with Accessibility features like VoiceOver and Spoken Content.
 
-Familiar interface on all devices you own, high contrast, all details big enough for everyone to notice - this could be the right weather app for you.
-
 [Familiar interface on all devices you own, high contrast, all details big enough for everyone to notice - this could be the right weather app for you.](https://apps.apple.com/app/id1533228338)
 
 [![](/images/weather_qr-code.jpg)](https://apps.apple.com/app/id1533228338)
