@@ -6,11 +6,11 @@ title = "Apps Tea | Apps & Games "
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
-weight = 1
+weight = "1"
 [params]
 address = "Minsk, Belarus"
 author = "Tea Drinker"
-copyright = "Copyright &copy; 2020"
+copyright = "Copyright &copy; 2021"
 description = "Stylish apps & games"
 email = "i@appstea.com"
 google_analitycs_id = "UA-165397278-1"
