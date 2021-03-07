@@ -22,7 +22,7 @@ skill:
     color: peru
     title: Hypercasual Games
   - title: Web Apps
-    progress: 70%
+    progress: 55%
     color: "#ffbcaa"
 experience:
   enable: false
