@@ -19,7 +19,6 @@ fields:
   hidden: true
   default: "/images/illustrations/dots-orange.svg"
 pages:
-- Jobs/qa.md
 - content/legal/pickpic-privacy-policy.html
 - content/legal/privacy-policy.html
 - content/legal/terms-of-use.html

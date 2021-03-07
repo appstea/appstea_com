@@ -5,13 +5,6 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: ''
-  label: Jobs
-  create: all
-  match: conjent/jobs/*
-  templates:
-  - page
-- type: directory
   path: content/about
   label: About
   create: none
