@@ -1,5 +1,5 @@
 ---
-title: About (and Jobs?)
+title: About (Jobs)
 date: 2020-04-17T06:14:34.000+00:00
 description: Apps Tea Studio
 author_image: images/tea.jpg
