@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2021-03-04T21:00:00Z
 description = ""
 image = "/images/pexels-adrianna-calvo-17663.jpg"
 title = "QA"
