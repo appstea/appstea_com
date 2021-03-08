@@ -1,7 +1,7 @@
 +++
 date = ""
 description = ""
-image = ""
+image = "/images/pexels-adrianna-calvo-17663.jpg"
 title = "QA"
 
 +++
