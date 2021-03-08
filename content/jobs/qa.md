@@ -1,8 +1,8 @@
 +++
 date = 2021-03-04T21:00:00Z
-description = ""
+description = "Manual quality assurance for iOS "
 image = "/images/pexels-adrianna-calvo-17663.jpg"
-title = "QA"
+title = "Mobile QA"
 
 +++
 **Наши ожидания от кандидата:**
