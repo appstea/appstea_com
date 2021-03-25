@@ -2,7 +2,7 @@
 date = 2020-12-23T21:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/images/iq-train-number-snake-game.png"
 title = "IQ Train"
 
 +++
