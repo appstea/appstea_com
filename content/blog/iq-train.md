@@ -26,7 +26,7 @@ Use powerful boosters to help you along the way:
 
 ◉ Don’t see a number to pick up? Use Solver!
 
-◉ The board is too clattered? Use Cleaner to clean up the board!
+◉ The board is too cluttered? Use Cleaner to clean up the board!
 
 ◉ Picked up the wrong number and can’t upgrade your train? Use Delete to get rid of that last car!
 
