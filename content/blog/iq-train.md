@@ -35,3 +35,5 @@ Train your brain on the go! Bite-sized gameplay is great for training your brain
 Take 5 minutes of your day to de-stress and challenge yourself at the same time! Clear your mind, focus, set records and earn bragging rights! Enjoy juicy, clean and simple gameplay as well as the vivid and unique design.
 
 Have fun with the relaxing puzzle game that really trains your brain and cheers you up!
+
+![https://apple.co/3lQLXws](/images/qr-code-3.jpg)
