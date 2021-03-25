@@ -17,6 +17,7 @@ fields:
   hidden: false
 pages:
 - content/blog/color-the-maze.html
+- content/blog/iq-train.md
 - content/blog/pickpic-hashtag-helper.md
 - content/blog/slicey-cube-puzzle.md
 - content/blog/tap-move-get-puzzled.md
