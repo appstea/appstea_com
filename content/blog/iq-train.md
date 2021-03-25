@@ -36,4 +36,4 @@ Take 5 minutes of your day to de-stress and challenge yourself at the same time!
 
 Have fun with the relaxing puzzle game that really trains your brain and cheers you up!
 
-![https://apple.co/3lQLXws](/images/qr-code-3.jpg)
+[![QR Code to download the game](/images/qr-code-3.jpg)](https://apple.co/3lQLXws)
