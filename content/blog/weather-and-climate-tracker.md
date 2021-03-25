@@ -22,3 +22,5 @@ Weather & Climate Tracker is a high-contrast weather app, which can be really us
 [Familiar interface on all devices you own, high contrast, all details big enough for everyone to notice - this could be the right weather app for you.](https://apps.apple.com/app/id1533228338)
 
 [![](/images/weather_qr-code.jpg)](https://apps.apple.com/app/id1533228338)
+
+There is also a [web site with weather trivia](https://weather-aware.com "Weather Aware") available if you are really interested. 
