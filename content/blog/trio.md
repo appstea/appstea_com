@@ -31,3 +31,5 @@ Key features:
 \- Sharing option - less words, more pics!
 
 \- Suitable for everyone
+
+[![](/images/qr-code-4.jpg)](https://apple.co/3w45qhC "Trio - Polygon Coloring Puzzl‪e‬")
