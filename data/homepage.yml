@@ -3,7 +3,8 @@ banner:
   title: Hi! We are Apps Tea<br> Small studio making apps and games
 about:
   enable: true
-  content: Puzzle games, stylish apps
+  content: Apps Tea is a dynamic mobile product development company. We create bright
+    business and entertainment applications and games for iOS and Android platforms.
   button:
     enable: true
     label: know more
