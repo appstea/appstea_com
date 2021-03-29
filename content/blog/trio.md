@@ -17,18 +17,12 @@ So many non-trivial coloring arts to boost your creativity power and unimagined 
 
 Key features:
 
-\- Coloring puzzles
-
-\- Easy and fun play
-
-\- Relaxing brain trainer
-
-\- Unique gameplay
-
-\- Dozens of sweet pictures
-
-\- Sharing option - less words, more pics!
-
-\- Suitable for everyone
+* Coloring puzzles
+* Easy and fun play
+* Relaxing brain trainer
+* Unique gameplay
+* Dozens of sweet pictures
+* Sharing option - less words, more pics!
+* Suitable for everyone
 
 [![](/images/qr-code-4.jpg)](https://apple.co/3w45qhC "Trio - Polygon Coloring Puzzl‪e‬")
