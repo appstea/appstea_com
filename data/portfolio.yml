@@ -2,8 +2,7 @@
 item:
 - image: images/color_maze.jpg
   project_url: "/blog/color-the-maze/"
-  category:
-  - game
+  category: []
 - image: images/pickpic_icon.png
   project_url: "/blog/pickpic-hashtag-helper/"
   category: []
