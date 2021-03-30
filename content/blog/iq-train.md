@@ -1,7 +1,7 @@
 +++
 date = 2020-12-23T21:00:00Z
 description = "IQ Train - Number Snake Gam‪e‬: 4+ Snake vs Block Puzzle"
-image = "/images/snake_promo.png"
+image = "/images/snake_promo-1.png"
 title = "IQ Train"
 
 +++
