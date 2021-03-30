@@ -32,4 +32,5 @@ clients_logo_slider:
   item:
   - URL: blog/color-the-maze/
     logo: images/color_maze_small.jpg
-  - URL: ''
+  - URL: blog/pickpic-hashtag-helper/
+    logo: images/pickpic_icon_small.png
