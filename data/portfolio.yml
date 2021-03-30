@@ -27,7 +27,9 @@ item:
   project_url: https://appstea.com/blog/trio/
   category: []
 clients_logo_slider:
-  enable: false
+  enable: true
   title: My Clients
   item:
+  - URL: blog/color-the-maze/
+    logo: images/color_maze_small.jpg
   - URL: ''
