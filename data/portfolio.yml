@@ -31,7 +31,8 @@ item:
   category: ''
 - image: images/words_icon.png
   project_url: https://apps.apple.com/us/app/find-words-3d/id1534551707
-  category: ''
+  category:
+  - '1'
 clients_logo_slider:
   enable: false
   title: Apps
