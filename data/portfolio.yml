@@ -4,12 +4,6 @@ item:
   project_url: "/blog/color-the-maze/"
   category:
   - game
-- image: images/iq-train-number-snake-game-1.png
-  project_url: https://appstea.com/blog/iq-train/
-  category: []
-- image: images/trio-polygon-coloring-puzzle-1.png
-  project_url: https://appstea.com/blog/trio/
-  category: []
 - image: images/pickpic_icon.png
   project_url: "/blog/pickpic-hashtag-helper/"
   category:
@@ -26,6 +20,12 @@ item:
   project_url: "/blog/tap-move-get-puzzled/"
   category:
   - game
+- image: images/iq-train-number-snake-game-1.png
+  project_url: https://appstea.com/blog/iq-train/
+  category: []
+- image: images/trio-polygon-coloring-puzzle-1.png
+  project_url: https://appstea.com/blog/trio/
+  category: []
 clients_logo_slider:
   enable: false
   title: My Clients
