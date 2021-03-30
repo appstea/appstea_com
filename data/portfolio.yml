@@ -1,8 +1,5 @@
 ---
 item:
-- image: images/space-icon.png
-  project_url: ''
-  category: ''
 - image: images/color_maze.jpg
   project_url: "/blog/color-the-maze/"
   category:
@@ -29,6 +26,9 @@ item:
 - image: images/trio-polygon-coloring-puzzle-1.png
   project_url: https://appstea.com/blog/trio/
   category: []
+- image: images/space-icon.png
+  project_url: ''
+  category: ''
 - image: images/words-icon.png
   project_url: ''
   category: ''
