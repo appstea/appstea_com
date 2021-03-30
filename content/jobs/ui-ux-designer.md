@@ -1,6 +1,6 @@
 +++
 date = 2021-03-08T21:00:00Z
-description = "TTTTT"
+description = ""
 image = "/images/tran-mau-tri-tam-g-pkprpg5yw-unsplash.jpg"
 title = "UI/UX Designer"
 
