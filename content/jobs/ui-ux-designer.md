@@ -5,6 +5,8 @@ image = "/images/tran-mau-tri-tam-g-pkprpg5yw-unsplash.jpg"
 title = "UI/UX Designer"
 
 +++
+**UI/UX Designer Wanted!**
+
 **Требования:**
 
 \- опыт работы на коммерческих проектах от 1 года;
