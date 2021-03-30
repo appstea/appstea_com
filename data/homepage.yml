@@ -79,7 +79,7 @@ service:
 portfolio:
   enable: true
   title: Our Apps & Games
-  item_show: "7"
+  item_show: "9"
 testimonial:
   enable: false
   title: Testimonials
