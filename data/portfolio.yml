@@ -10,11 +10,11 @@ item:
   project_url: "/blog/color-the-maze/"
   category:
   - game
-- image: images/slicey_icon_small.png
+- image: images/slicey_icon.png
   project_url: "/blog/slicey-cube-puzzle/"
   category:
   - game
-- image: images/pickpic_icon_small.png
+- image: images/pickpic_icon.png
   project_url: "/blog/pickpic-hashtag-helper/"
   category:
   - app
