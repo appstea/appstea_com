@@ -1,7 +1,7 @@
 +++
 date = 2021-03-02T21:00:00Z
 description = "Trio - Polygon Coloring Puzzl‪e‬"
-image = "/images/trio-1.png"
+image = "/images/trio-promo.png"
 title = "Trio"
 
 +++
