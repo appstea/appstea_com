@@ -1,6 +1,6 @@
 ---
 item:
-- image: images/color_maze.jpg
+- image: images/color_maze_small.jpg
   project_url: "/blog/color-the-maze/"
   category:
   - game
@@ -23,3 +23,5 @@ item:
 clients_logo_slider:
   enable: false
   title: My Clients
+  item:
+  - URL: ''
