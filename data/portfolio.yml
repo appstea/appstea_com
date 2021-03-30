@@ -6,20 +6,16 @@ item:
   - game
 - image: images/pickpic_icon.png
   project_url: "/blog/pickpic-hashtag-helper/"
-  category:
-  - app
+  category: []
 - image: images/weather_site.jpg
   project_url: https://appstea.com/blog/weather-and-climate-tracker/
-  category:
-  - app
+  category: []
 - image: images/slicey_icon.png
   project_url: "/blog/slicey-cube-puzzle/"
-  category:
-  - game
+  category: []
 - image: images/tapaku_icon_new.png
   project_url: "/blog/tap-move-get-puzzled/"
-  category:
-  - game
+  category: []
 - image: images/iq-train-number-snake-game-1.png
   project_url: https://appstea.com/blog/iq-train/
   category: []
@@ -31,8 +27,7 @@ item:
   category: ''
 - image: images/words_icon.png
   project_url: https://apps.apple.com/us/app/find-words-3d/id1534551707
-  category:
-  - '1'
+  category: []
 clients_logo_slider:
   enable: false
   title: Apps
