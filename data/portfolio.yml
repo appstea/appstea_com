@@ -6,7 +6,7 @@ item:
 - image: images/iq-train-number-snake-game_small.png
   project_url: https://appstea.com/blog/iq-train/
   category: ''
-- image: images/color_maze_small.jpg
+- image: images/color_maze.jpg
   project_url: "/blog/color-the-maze/"
   category:
   - game
