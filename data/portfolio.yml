@@ -1,7 +1,7 @@
 ---
 item:
-- image: ''
-  project_url: ''
+- image: images/trio-polygon-coloring-puzzle_small.png
+  project_url: https://appstea.com/blog/trio/
   category: ''
 - image: images/iq-train-number-snake-game_small.png
   project_url: https://appstea.com/blog/iq-train/
