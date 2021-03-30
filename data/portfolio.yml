@@ -1,5 +1,8 @@
 ---
 item:
+- image: images/words-icon.png
+  project_url: ''
+  category: ''
 - image: images/color_maze.jpg
   project_url: "/blog/color-the-maze/"
   category:
