@@ -11,3 +11,5 @@ We make games.
 And apps.
 
 And stuff.
+
+Apps Tea is a dynamic mobile product development company. We create bright business and entertainment applications and games for iOS and Android platforms. The company was founded in 2020 by mobile domain experts and now we are 7 talented professionals seeking new opportunities to grow and make world a better place to live.
