@@ -28,7 +28,7 @@ item:
   category: []
 clients_logo_slider:
   enable: true
-  title: My Clients
+  title: Apps
   item:
   - URL: blog/color-the-maze/
     logo: images/color_maze_small.jpg
