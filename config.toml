@@ -16,7 +16,7 @@ email = "i@appstea.com"
 google_analitycs_id = "UA-165397278-1"
 home = "Home"
 logo = "images/appstea12.png"
-phone = "+375-29-7232508"
+phone = "+375-29-8257148"
 theme_color = "#57969b"
 [params.contact]
 enable = false
