@@ -19,6 +19,7 @@ fields:
   hidden: true
   default: "/images/illustrations/dots-orange.svg"
 pages:
+- content/jobs/unity-developer.md
 - content/legal/pickpic-privacy-policy.html
 - content/legal/privacy-policy.html
 - content/legal/terms-of-use.html
