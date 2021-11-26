@@ -1,7 +1,7 @@
 +++
 date = ""
 description = ""
-image = ""
+image = "/images/tea.jpg"
 title = "Unity Developer"
 
 +++
