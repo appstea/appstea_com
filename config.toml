@@ -19,7 +19,7 @@ logo = "images/appstea12.png"
 phone = "+375-29-8257148"
 theme_color = "#57969b"
 [params.contact]
-enable = true
+enable = false
 form_action = "mailto:general.appsetea@gmail.com"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
