@@ -23,7 +23,7 @@ item:
   category: []
 - image: images/space_icon.png
   project_url: https://apps.apple.com/us/app/space-merge-x/id1522465254
-  category: ''
+  category: []
 clients_logo_slider:
   enable: false
   title: Apps
