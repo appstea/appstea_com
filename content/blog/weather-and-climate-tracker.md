@@ -1,3 +1,7 @@
+---
+_template: post
+---
+
 +++
 date = 2020-11-02T21:00:00Z
 description = "Familiar interface on all devices you own, high contrast, all details big enough for everyone to notice - this could be the right weather app for you."

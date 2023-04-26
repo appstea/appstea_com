@@ -1,0 +1,26 @@
+{
+  "name": "appstea-com",
+  "version": "1.0.0",
+  "description": "![Homepage](https://user-images.githubusercontent.com/37659754/58154295-1a9c5300-7c93-11e9-992c-ad8d2ff8d99f.png)",
+  "main": "index.js",
+  "scripts": {
+      "dev": "tinacms dev -c \"hugo server -D\"",
+      "build": "tinacms build && hugo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appstea/appstea_com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appstea/appstea_com/issues"
+  },
+  "homepage": "https://github.com/appstea/appstea_com#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.7",
+    "tinacms": "^1.5.0"
+  }
+}

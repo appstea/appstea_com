@@ -1,3 +1,7 @@
+---
+_template: post
+---
+
 +++
 date = 2021-03-04T21:00:00Z
 description = "Manual quality assurance for iOS "

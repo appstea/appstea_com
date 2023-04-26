@@ -1,3 +1,7 @@
+---
+_template: post
+---
+
 +++
 date = 2020-05-01T21:00:00Z
 description = "Spend less time managing your social media accounts.  Or just improve your photography skills."
