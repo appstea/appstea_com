@@ -1,9 +1,5 @@
----
-_template: post
----
-
 +++
-date = 2021-03-04T21:00:00Z
+date = ""
 description = ""
 image = "/images/christina-wocintechchat-com-otheybqxlfu-unsplash.jpg"
 title = "Unity Developer"
