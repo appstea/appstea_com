@@ -1,4 +1,5 @@
 google.com, pub-9760052382521354, DIRECT, f08c47fec0942fa0
+google.com, pub-3028313072464077, DIRECT, f08c47fec0942fa0
 
 #Appodeal
 appodeal.com, 114584, DIRECT
