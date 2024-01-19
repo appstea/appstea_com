@@ -8,15 +8,15 @@ URL = "portfolio"
 name = "Portfolio"
 weight = 1
 [params]
-address = "Minsk, Belarus"
+address = "Georgia, City Tbilisi"
 author = "Tea Drinker"
-copyright = "Copyright &copy; 2023"
+copyright = "Copyright &copy; 2024"
 description = "Bright business and entertainment applications and games for iOS and Android."
 email = "i@appstea.com"
 google_analitycs_id = "UA-165397278-1"
 home = "Home"
 logo = "images/appstea12.png"
-phone = "+375-29-8257148"
+phone = "+995591923824"
 theme_color = "#57969b"
 [params.contact]
 enable = false
