@@ -3,8 +3,7 @@ banner:
   title: We make games. And apps. And stuff.
 about:
   enable: true
-  content: Weather Maps LLC.
-We are a dynamic mobile product development company. We create bright business and entertainment applications and games for iOS and Android platforms.
+  content: Weather Maps LLC. We are a dynamic mobile product development company. We create bright business and entertainment applications and games for iOS and Android platforms.
 
   button:
     enable: true
