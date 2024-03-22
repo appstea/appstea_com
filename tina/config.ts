@@ -22,6 +22,15 @@ export default defineConfig({
   },
   schema: {
     collections: [
+      {
+        format: "md",
+        label: "Jobs",
+        name: "jobs",
+        path: "content/jobs",
+        frontmatterFormat: "yaml",
+        match: {
+          include: "*",
+        },
         templates: [
           {
             fields: [
