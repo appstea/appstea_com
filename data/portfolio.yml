@@ -1,25 +1,28 @@
 ---
 item:
-- image: images/color_maze.jpg
-  project_url: https://apps.apple.com/us/app/color-hidden-objects/id1516774130
-  category: []
-- image: images/slicey_icon.png
-  project_url: https://apps.apple.com/ge/app/slicey-cube-puzzle/id1502566749
-  category: []
 - image: images/floods_ios.png
   project_url: https://apps.apple.com/us/app/flood-me-color-switch-puzzle/id1577147957
   category: [] 
-- image: images/tapaku_icon_new.png
-  project_url: https://apps.apple.com/us/app/tapaku-emoji-puzzle/id1503369220
-  category: []
 - image: images/iq-train-number-snake-game-1.png
   project_url: https://apps.apple.com/us/app/iq-train-number-puzzle-game/id6446758796
+  category: []
+- image: images/floods_gp.png
+  project_url: https://play.google.com/store/apps/details?id=flood.color.match.puzzle
   category: []
 - image: images/trio-polygon-coloring-puzzle-1.png
   project_url: https://apps.apple.com/ge/app/poly-painter-coloring-book/id1562833743
   category: []
+- image: images/slicey_icon.png
+  project_url: https://apps.apple.com/ge/app/slicey-cube-puzzle/id1502566749
+  category: []
+- image: images/color_maze.jpg
+  project_url: https://apps.apple.com/us/app/color-hidden-objects/id1516774130
+  category: []
 - image: images/space_icon.png
   project_url: https://apps.apple.com/us/app/space-merge-x/id1522465254
+  category: []
+- image: images/tapaku_icon_new.png
+  project_url: https://apps.apple.com/us/app/tapaku-emoji-puzzle/id1503369220
   category: []
 clients_logo_slider:
   enable: false
