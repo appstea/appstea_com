@@ -1,19 +1,19 @@
 ---
 item:
 - image: images/color_maze.jpg
-  project_url: "/blog/color-the-maze/"
+  project_url: https://apps.apple.com/us/app/color-hidden-objects/id1516774130
   category: []
 - image: images/slicey_icon.png
-  project_url: "/blog/slicey-cube-puzzle/"
+  project_url: https://apps.apple.com/ge/app/slicey-cube-puzzle/id1502566749
   category: []
 - image: images/tapaku_icon_new.png
-  project_url: "/blog/tap-move-get-puzzled/"
+  project_url: https://apps.apple.com/us/app/tapaku-emoji-puzzle/id1503369220
   category: []
 - image: images/iq-train-number-snake-game-1.png
-  project_url: https://appstea.com/blog/iq-train/
+  project_url: https://apps.apple.com/us/app/iq-train-number-puzzle-game/id6446758796
   category: []
 - image: images/trio-polygon-coloring-puzzle-1.png
-  project_url: https://appstea.com/blog/trio/
+  project_url: https://apps.apple.com/ge/app/poly-painter-coloring-book/id1562833743
   category: []
 - image: images/space_icon.png
   project_url: https://apps.apple.com/us/app/space-merge-x/id1522465254
