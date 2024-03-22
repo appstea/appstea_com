@@ -3,12 +3,6 @@ item:
 - image: images/color_maze.jpg
   project_url: "/blog/color-the-maze/"
   category: []
-- image: images/pickpic_icon.png
-  project_url: "/blog/pickpic-hashtag-helper/"
-  category: []
-- image: images/weather_site.jpg
-  project_url: https://appstea.com/blog/weather-and-climate-tracker/
-  category: []
 - image: images/slicey_icon.png
   project_url: "/blog/slicey-cube-puzzle/"
   category: []
